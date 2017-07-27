@@ -25,6 +25,22 @@ nav {
 	padding-bottom: 15px;
 }
 
+.imageLabel {
+	position: absolute;
+	top: 150px;
+	left: 16px;
+}
+
+.portImage .imageLabel {
+	color: white;
+	font: bold 18pt/45px 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	width: 100%;
+	margin: 0 auto;
+	letter-spacing: -1px;
+	background: #4aaaa5;
+	padding: 14px;
+}
+
 h4 {
 	position: absolute;
 	top: 150px;
