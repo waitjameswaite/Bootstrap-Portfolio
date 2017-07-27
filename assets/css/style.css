@@ -5,15 +5,24 @@ html {
 
 body {
   padding-top: 70px;
-  padding-top: 70px;
+  padding-bottom: 70px;
 }
 
 nav {
-	dispaly: inline-block;
+	display: inline-block;
 }
 
 .container a:hover {
 	text-decoration: underline;
+}
+
+.panel-body div a:hover {
+	opacity: 0.5;
+}
+
+.portImage img {
+	padding-top: 15px;
+	padding-bottom: 15px;
 }
 
 h4 {
